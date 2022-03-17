@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Refactored Header Style Start*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,6 +41,7 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+/* Refactored Header Style End*/
 
 a {
     color: #ffffff;
@@ -50,6 +52,7 @@ p {
     font-size: 16px;
 }
 
+/* Hero Style */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +62,8 @@ p {
     background-position: center;
 }
 
+
+/* Position Styles for Content */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -69,6 +74,7 @@ p {
     margin-left: 25px;
 }
 
+/* Refactored Content Style Start */
 .content {
     width: 75%;
     display: inline-block;
@@ -92,7 +98,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* Refactored Content Style End */
 
+/* Refactored Benefits Style Start */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -151,8 +159,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* Refactored Benefits Style End */
 
-
+/* Refactored Footer Style */
 footer {
     padding: 30px;
     clear: both;
