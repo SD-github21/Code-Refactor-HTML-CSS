@@ -1,14 +1,15 @@
 # Code Refactor Assignment
 
-The purpose of this project was to refactor existing code for a marketing agency's website in order to make it "website accessible".   
+## Overview
+The purpose of this project is to refactor existing code for a marketing agency's website in order to make it "website accessible". The User Story and Acceptance Criteria are as follows:
 
-## User Story
+### User Story
 
 AS A marketing agency\
 I WANT a codebase that follows accessibility standards\
 SO THAT our own site is optimized for search engines
 
-## Acceptance Criteria
+### Acceptance Criteria
 
 GIVEN a webpage meets accessibility standards\
 WHEN I view the source code\
@@ -22,5 +23,13 @@ THEN they fall in sequential order\
 WHEN I view the title element\
 THEN I find a concise, descriptive title
 
+## Assets Utilized
 
+- Files: 
+    - index.html
+    - style.css
+    - 7 images
 
+## Deliverable
+
+Refactored Website: https://sd-github21.github.io/urban-octo-telegram/
