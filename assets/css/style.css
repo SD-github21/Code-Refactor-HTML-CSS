@@ -65,8 +65,6 @@ footer h2 {
 }
 /* Refactored Footer Style End */
 
-
-
 /* Hero Style */
 .hero {
     height: 800px;
@@ -76,7 +74,6 @@ footer h2 {
     background-size: cover;
     background-position: center;
 }
-
 
 /* Position Styles for Content */
 .float-left {
@@ -96,7 +93,7 @@ footer h2 {
     margin-left: 20px;
 }
 
-.content-items {
+.content-item {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
