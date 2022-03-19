@@ -38,3 +38,6 @@ THEN I find a concise, descriptive title
 
 Refactored Website:  
 https://sd-github21.github.io/urban-octo-telegram/
+
+Screen Shot of Refactored Website:
+![alt text](screencapture-sd-github21-github-io-code-refactor.png)
