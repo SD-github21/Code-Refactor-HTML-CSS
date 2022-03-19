@@ -1,4 +1,4 @@
-# **Code Refactor Assignment**
+# **Code Refactor HTML CSS**
 
 ## **Overview**
 The purpose of this project is to refactor existing code for a marketing agency's website in order to make it "website accessible". The User Story and Acceptance Criteria are as follows:
@@ -37,7 +37,7 @@ THEN I find a concise, descriptive title
 ## **Deliverable**
 
 Refactored Website:  
-https://sd-github21.github.io/urban-octo-telegram/
+https://sd-github21.github.io/Code-Refactor-HTML-CSS/
 
 Screen Shot of Refactored Website:
 ![alt text](screencapture-sd-github21-github-io-code-refactor.png)
